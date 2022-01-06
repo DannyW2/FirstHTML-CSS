@@ -1,0 +1,82 @@
+body {
+    background-color: #1a1a1a;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 6%;
+}
+
+.img {
+    width: 70px;
+    height: 40px;
+    object-fit: fill;
+    padding-left: 3%;
+}
+
+.catalog {
+    color: #666666;
+    border-bottom: 1px solid #666666;
+    padding-bottom: 15px;
+    margin-right: 10%;
+    padding-top: 8%;
+}
+
+.list {
+    color: white;
+}
+
+.logo {
+    color: yellow;
+    background-color: black;
+    margin-top: -8px;
+    margin-right: -50px;
+    margin-left: -150px;
+    padding-left: 11%;
+}
+
+.log-in {
+    color: lightgrey;
+    margin-top: -50px;
+    margin-left: 70%;
+    padding-right: 0;
+    font-size: 22px;
+    margin-bottom: -50px;
+}
+
+.main {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#button {
+    border-radius: 50px;
+    height: 30px;
+    width: 90px;
+    margin-top: -10000px;
+    margin-left: 88%;
+    margin-bottom: 5px;
+}
+
+#left {
+    border-right: 1px solid white;
+    width: 280px;
+    padding-left: 4%;
+    font-size: 22px;
+    padding-right: 3%;
+    padding-top: 3%;
+}
+
+#yellow {
+    color: yellow;
+}
+
+#catalog {
+    font-size: 20px;
+}
+
+#snail {
+    width: 600px;
+    height: 700px;
+    margin-left: 2%;
+    margin-top: -300px;
+    border-radius: 10px;
+}
